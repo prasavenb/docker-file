@@ -1,4 +1,5 @@
 #!/bin/bash
+#!/bin/bash
 
 R="\e[31m"
 N="\e[0m"
