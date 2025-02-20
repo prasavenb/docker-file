@@ -5,4 +5,4 @@ ARG course="docker"\
     trainer="sivakumar"
 RUN echo "course is $course and duration is $duration"
 CMD [ "sleep", "120" ]
-ARG name
+
