@@ -1,4 +1,5 @@
-FROM almalinux:9
+ARG version
+FROM almalinux:${version}
 ARG course="docker"\    
     duration="120hrs"\
     trainer="sivakumar"
